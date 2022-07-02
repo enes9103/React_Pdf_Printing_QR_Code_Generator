@@ -1,6 +1,6 @@
 ## React_Pdf_Printing_QR_Code_Generator
 
-## About the project
+## About the projects
 React to Pdf Printing project is an application that provides output by converting data entries prepared with React.js to pdf format.
 QR Code Application gives output by converting web links entered by the user into QR code.
 
